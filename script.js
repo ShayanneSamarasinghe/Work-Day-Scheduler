@@ -67,7 +67,6 @@ setInterval (todayDate, 1000);
 
 
  
- // localStorage.getItem ("saveInfo")
 
 
 
